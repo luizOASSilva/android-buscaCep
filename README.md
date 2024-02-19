@@ -21,4 +21,4 @@ Aplicativo para android que realiza a pesquisa de endereços por meio do CEP.
 
 ## Download
 
-Baixe o aplicativo => **[buscaCep](https://expo.dev//accounts/luizoass/projects/buscaCep/builds/e896aad1-339e-4b4d-887f-d8b3c8a3bc30)**.
+Baixe o aplicativo -> **[buscaCep](https://expo.dev//accounts/luizoass/projects/buscaCep/builds/e896aad1-339e-4b4d-887f-d8b3c8a3bc30)**.
