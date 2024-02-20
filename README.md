@@ -10,7 +10,7 @@ Aplicativo para android que realiza a pesquisa de endereços por meio do CEP.
 1. Clone este repositório.
 2. Instale as dependências com `npm install`.
 3. Inicie o servidor de desenvolvimento com `npm start`.
-4. Instale o aplicativo **[Expo Go](https://play.google.com/store/search?q=expo%20go&c=apps)** no seu aparelho telefônico.
+4. Instale o aplicativo **[Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR)** no seu aparelho telefônico.
 5. Leia o QR Code. 
 
 ## • Tecnologias utilizadas
