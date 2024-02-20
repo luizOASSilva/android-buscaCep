@@ -28,7 +28,7 @@ Baixe o aplicativo -> **[buscaCep](https://expo.dev//accounts/luizoass/projects/
 
 ## • Referências e documentações
 
--**[React Native](https://reactnative.dev/docs/getting-started)**
+-**[React Native](https://reactnative.dev/docs/getting-started)** 
 -**[Expo Go](https://docs.expo.dev/)**
 -**[Node Js](https://nodejs.org/docs/latest/api/)**
 -**[Api](https://viacep.com.br/)**
