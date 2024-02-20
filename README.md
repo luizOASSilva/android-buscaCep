@@ -1,7 +1,7 @@
 # android-buscaCep
 Aplicativo para android que realiza a pesquisa de endereços por meio do CEP.
 
-## Funcionalidades
+## • Funcionalidades
 
 **Busca por CEP:** Insira um CEP para obter informações detalhadas do endereço correspondente.
 
@@ -13,12 +13,14 @@ Aplicativo para android que realiza a pesquisa de endereços por meio do CEP.
 4. Instale o aplicativo **[Expo Go](https://play.google.com/store/search?q=expo%20go&c=apps)** no seu aparelho telefônico.
 5. Leia o QR Code. 
 
-## Tecnologias utilizadas
+## • Tecnologias utilizadas
 
 - React Native
 - Expo
 - Node Js
 
-## Download
+## • Download
 
 Baixe o aplicativo -> **[buscaCep](https://expo.dev//accounts/luizoass/projects/buscaCep/builds/e896aad1-339e-4b4d-887f-d8b3c8a3bc30)**.
+
+## • Referências e documentações
