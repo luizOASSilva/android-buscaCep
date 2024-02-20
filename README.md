@@ -16,8 +16,8 @@ Aplicativo para android que realiza a pesquisa de endereços por meio do CEP.
 ## • Tecnologias e Linguagens
 
 <div style="display: inline_block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="60" />
-<img src="https://www.svgrepo.com/show/341805/expo.svg" height="50" width="60" style="border-radius: '5'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" width="60"/>
+<img src="https://www.svgrepo.com/show/341805/expo.svg" height="50" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="60"/>
 </div>
 
