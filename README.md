@@ -15,12 +15,20 @@ Aplicativo para android que realiza a pesquisa de endereços por meio do CEP.
 
 ## • Tecnologias utilizadas
 
-- React Native
-- Expo
-- Node Js
+<div style="display: inline_block">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" width="40" />
+<img src="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_ZA" height="30" width="40" style="border-radius: '5'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"/>
+</div>
+
 
 ## • Download
 
 Baixe o aplicativo -> **[buscaCep](https://expo.dev//accounts/luizoass/projects/buscaCep/builds/e896aad1-339e-4b4d-887f-d8b3c8a3bc30)**.
 
 ## • Referências e documentações
+
+-**[React Native](https://reactnative.dev/docs/getting-started)**
+-**[Expo Go](https://docs.expo.dev/)**
+-**[Node Js](https://nodejs.org/docs/latest/api/)**
+-**[Api](https://viacep.com.br/)**
